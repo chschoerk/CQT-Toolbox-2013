@@ -1,4 +1,4 @@
-## Constant-Q transform toolbox for music processing (2010)
+## A matlab toolbox for efficient perfect reconstruction time-frequency transforms with log-frequency resolution (2013)
 
 This is the reference implementation accompanying the paper
 
